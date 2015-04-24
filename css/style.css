@@ -1,0 +1,120 @@
+.contents {
+  text-align: left;
+	background-color: grey;
+  border-radius: 10px; 
+  color: black;
+  padding: 2px;
+  margin: 10px auto
+}
+li {
+	font-size: 20px;
+	line-height: 30px;
+  }
+
+body {
+	padding: 10px 10px;
+	font-family: Helvetica;
+	max-width: 1850px;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+
+p {
+	margin: 10px 0;
+}
+
+.lesson1 {
+  text-align: left;
+	background-color: black;
+  border-radius: 10px; 
+  color: white;
+  padding: 5px;
+  margin: 10px auto
+}
+
+.HTWW {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+.HTML {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+
+.tags {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+.TOT {
+	list-style-type: none;
+}
+
+.stupid {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+
+.inline {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+.lesson2 {
+  text-align: left;
+	background-color: black;
+  border-radius: 10px; 
+  color: white;
+  padding: 5px;
+  margin: 10px auto
+}
+.content2 {
+  text-align: left;
+	background-color: grey;
+  border-radius: 10px; 
+  color: black;
+  padding: 2px;
+  margin: 10px auto
+}
+.tree {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+.boxes {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+.tools {
+  font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: blue;
+  font-weight: bold;
+}
+.lesson3 {
+  text-align: left;
+	background-color: black;
+  border-radius: 10px; 
+  color: white;
+  padding: 5px;
+  margin: 10px auto
+}
